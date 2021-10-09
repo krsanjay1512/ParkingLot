@@ -40,8 +40,7 @@ namespace ConsoleApp2
             }
             catch (Exception e)
             {
-                Console.WriteLine(e.Message);
-              
+                Console.WriteLine(e.Message); 
             }
             
         }
